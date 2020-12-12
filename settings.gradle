@@ -1,2 +1,1 @@
 include ':app'
-rootProject.name = "DOCUMENT SCANNER (CONVERT IMAGE TO PDF)"
